@@ -1,0 +1,20 @@
+input{
+    width: 30vw;
+}
+
+.btn-success{
+    background-color: #13ac87;
+    border-color: #13ac87;
+}
+
+@media (max-width: 990px) {
+    .form-div {
+      display: grid !important;
+      grid-template-columns: 1fr !important;
+      place-items: center;
+    }
+  
+    .form-div>div{
+      padding-top: 1rem;
+    }
+  }

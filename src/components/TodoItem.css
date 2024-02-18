@@ -1,0 +1,28 @@
+.card{
+    background-color: #ccf5d3;
+    border-radius: 0%;
+}
+
+.dropdown{
+    background-color: #fd817f;
+    color: whitesmoke;
+    text-align: center;
+    border: none;
+    content: '\f078';
+}
+
+.completed-color{
+    background-color: #12ac87;
+}
+
+.btn{
+    width: 100px;
+}
+
+.btn-delete{
+    background-color: #cf5e1d;
+}
+
+.btn-edit{
+    background-color: #12ac87;
+}

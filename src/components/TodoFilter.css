@@ -1,0 +1,11 @@
+@media (max-width: 767px) {
+  .filter-div {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    place-items: center;
+  }
+
+  .filter-div>div{
+    padding-top: 1rem;
+  }
+}
